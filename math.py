@@ -1,0 +1,10 @@
+a = 20
+b = 30
+c = a + b
+d = a - b
+e = a / b
+f = a * b
+print ("Value Of c =",c)
+print ("Value Of d =",d)
+print ("Value Of e =",e)
+print ("Value Of f =",f)
