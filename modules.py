@@ -1,44 +1,44 @@
 # Excercise 1
 
-# from math import sqrt
+from math import sqrt
 
-# n = int(input("Enter a number: "))
-# print("Square Root =", sqrt(n))
+n = int(input("Enter a number: "))
+print("Square Root =", sqrt(n))
 
 # Excercise 2
 
-# from math import pi
+from math import pi
 
-# r = int(input("Enter radius: "))
-# area = pi * r * r
-# print("Area =", area)
+r = int(input("Enter radius: "))
+area = pi * r * r
+print("Area =", area)
 
 # Exercise 3
 
-# import random
+import random
 
-# random_num = random.randint(1,100)
-# print("Random Number =", random_num)
+random_num = random.randint(1,100)
+print("Random Number =", random_num)
 
 # Exercise 4
 
-# import random
+import random
 
-# students = [
-#     "Alex",
-#     "Beatrix",
-#     "Charlie",
-#     "David",
-#     "Emma",
-#     "Fiona",
-#     "Gabriel",
-#     "Hannah",
-#     "Ian",
-#     "Julia"
-# ]
+students = [
+    "Alex",
+    "Beatrix",
+    "Charlie",
+    "David",
+    "Emma",
+    "Fiona",
+    "Gabriel",
+    "Hannah",
+    "Ian",
+    "Julia"
+]
 
-# random_student = random.choice(students)
-# print("Student =", random_student)
+random_student = random.choice(students)
+print("Student =", random_student)
 
 # Excercise 5
 
