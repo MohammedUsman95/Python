@@ -31,5 +31,5 @@ class Product:
         print("Discounted Price =", self.get_discounted_price())
         print("Discounted Total =", self.get_discounted_total())
 
-product1 = Product("Mobile", 20000, 10, 0)
+product1 = Product("Mobile", 20000, 10, 10)
 product1.display()
